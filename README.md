@@ -111,5 +111,5 @@ Contributions are welcome! Feel free to:
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Dev Mangrani
 </div>
