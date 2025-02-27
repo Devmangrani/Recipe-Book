@@ -40,7 +40,7 @@ Experience the live application: [Recipe Explorer Live Demo](https://tc-search-m
 
 ```bash
 git clone https://github.com/Devmangrani/Recipe-Book.git
-cd recipe-explorer
+cd Recipe-Book
 ```
 
 2. Install dependencies
